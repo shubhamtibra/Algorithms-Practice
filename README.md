@@ -1,2 +1,2 @@
 # Algorithms-Practice
-My implementation of different algorithms for practice
+Solution of some algorithmic problems in C++ that I do for practice.
